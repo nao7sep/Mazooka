@@ -6,6 +6,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
+    <!-- Explicitly set for consistency with other projects in the solution -->
+    <RootNamespace>Mazooka</RootNamespace>
+
     <!-- Assembly Information -->
     <AssemblyTitle>Mazooka</AssemblyTitle>
     <Product>Mazooka</Product>
