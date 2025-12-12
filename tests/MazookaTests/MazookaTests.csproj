@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MazookaCore\MazookaCore.csproj" />
+    <ProjectReference Include="..\..\src\MazookaCore\MazookaCore.csproj" />
   </ItemGroup>
 
 </Project>
