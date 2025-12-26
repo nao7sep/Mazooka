@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mazooka", "src\Mazooka\Mazo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazookaCore", "src\MazookaCore\MazookaCore.csproj", "{8E9BB511-4203-4424-8098-6602FA1BBEB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazoookaCoreTests", "tests\MazoookaCoreTests\MazoookaCoreTests.csproj", "{2744855A-2F47-422F-8B91-133D791B94EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazookaCoreTests", "tests\MazookaCoreTests\MazookaCoreTests.csproj", "{2744855A-2F47-422F-8B91-133D791B94EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
